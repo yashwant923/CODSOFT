@@ -21,7 +21,8 @@ Description:
 
 The Tic-Tac-Toe game allows two players to play against each other. Create a 3x3 grid as the game board and implement logic for displaying the current board, taking player input, updating the board, and checking for a win or a draw. This task involves working with arrays and conditional statements.
 
-# Task 4 : To-Do ListThis is a basic command-line to-do list application written in C++. It allows users to manage their tasks by adding, viewing, marking as complete, and removing tasks.
+# Task 4 : To-Do List
+This is a basic command-line to-do list application written in C++. It allows users to manage their tasks by adding, viewing, marking as complete, and removing tasks.
 
 #Features:
 
