@@ -20,3 +20,17 @@ Welcome to the Tic-Tac-Toe Game! This is a simple console-based implementation o
 Description:
 
 The Tic-Tac-Toe game allows two players to play against each other. Create a 3x3 grid as the game board and implement logic for displaying the current board, taking player input, updating the board, and checking for a win or a draw. This task involves working with arrays and conditional statements.
+
+# Task 4 : To-Do ListThis is a basic command-line to-do list application written in C++. It allows users to manage their tasks by adding, viewing, marking as complete, and removing tasks.
+
+#Features:
+
+Add Task: You can add tasks to your to-do list by providing a description.
+
+View Tasks: View your to-do list, including task descriptions and their completion status.
+
+Mark as Complete: Mark tasks as completed when you finish them.
+
+Remove Tasks: Remove tasks from the list.
+
+Quit: Exit the application when you're done managing your tasks.
